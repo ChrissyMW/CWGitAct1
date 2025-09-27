@@ -1,1 +1,4 @@
+
+Merge conflict part 1
 Creating a conflict
+
